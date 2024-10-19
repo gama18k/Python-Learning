@@ -11,5 +11,3 @@ if 'são paulo' in brasil:
     print(f"a capital de são paulo é: {capital}")
 else:
     print("estado não encontrado.")
-
-### 5. Tratamento de exceções (try/except)
